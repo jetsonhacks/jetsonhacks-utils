@@ -6,6 +6,7 @@ A collection of small, useful scripts stored as GitHub gists. This repo is just 
 | Script             | Purpose                         | Gist Link                              | Raw URL                                  |
 |--------------------|---------------------------------|----------------------------------------|------------------------------------------|
 | `check_so_deps.py`| Checks missing .so dependencies | [Gist](https://gist.github.com/username/abc123) | [Raw](https://gist.githubusercontent.com/username/abc123/raw/check_so_deps.py) |
+| `check_so_dependencies.sh` | Find missing dependencies in .so file | [Gist](https://gist.github.com/jetsonhacks/3bd3e4a1c7a8d0e81a6126a9e05d4e25) | [Raw](https://gist.githubusercontent.com/jetsonhacks/3bd3e4a1c7a8d0e81a6126a9e05d4e25/raw/27a571d4de603b28a6a565fee7baa14b8667d1f5/check_so_dependencies.sh) |
 
 ## How to Use
 - **Browse**: Click the "Gist" link to view the script and its details.
